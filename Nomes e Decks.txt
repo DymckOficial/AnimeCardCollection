@@ -1,0 +1,363 @@
+--LISTA DOS NOMES DOS CARDS E DECKS--
+
+NOMES que não sei de quem são ainda:
+Snake
+Daiman
+Aida
+Elisabeth
+Platinum
+Takamura
+Kamikaze
+Kojiuro
+Yoichi
+Beelzebulb
+Hyoga
+Yuzuriha
+
+
+Deck 1: Pirate
+
+Luffy
+Nami
+Chopper
+Usopp
+Nico Robin
+Franky
+Jimbe
+Sanji
+Zoro
+
+Deck 2: Ninja
+Naruto
+Sakura
+Shikamaru
+Hinato -- É... Está correto assim, reclama para o dev do jogo.
+Rock Lee
+Gaara
+Sasuke
+Kakashi
+Minato
+
+Deck 3: Soul
+Ichigo
+Kon
+Orihime
+Sado
+Ishida
+Rukia
+Renji
+Kenpachi
+Kisuke (Urahara)
+
+Deck 4: Slayer
+Tanjiro
+Nezuko
+Inosuke
+Zenitsu
+Rengoku
+Mitsuri
+Giyu
+Obani
+Sanemi
+
+Deck 5: Sorcerer
+Itadori
+Nobara
+Megumi
+Toge
+Maki
+Todo
+Yuta
+Gojo
+Sakuna -- É... Está correto assim, reclama para o dev do jogo.
+
+Deck 6: Dragon
+Goku
+Vegeta
+Krillin
+Piccolo
+Trunks
+Gohan
+Super Saiyan Rose
+Broly
+Beerus
+
+
+Deck 7: Fire
+Shinra
+Iris
+Tamaki
+Obi
+Hibana
+Mage Maki
+Arthur
+Sho
+Benimaru
+
+
+Deck 8: Hero
+Saitama
+King
+Fubuki
+Sonic
+Child Emperor
+Genos
+Silver Fang
+Tatsumaki
+Kamikaze
+
+Deck 9: Hunter
+Gon
+Leorio
+Shizuku
+Kurapika
+Kite
+Killua
+Hisoka
+Neferpitou
+Netero
+
+Deck 10: Solo
+Jinwoo
+Chae In
+Tank
+Yoonho
+Jong In
+Tusk
+Gunhee
+Beru
+Igris
+
+Deck 11: Titan
+Eren 
+Sasha 
+Armin 
+Reiner 
+Annie 
+Hange 
+Mikasa
+Levi
+Historia
+
+Deck 12: Chaisaw
+Denji 
+Kobeni 
+Himeno 
+Aki 
+Power 
+Galgali 
+Angel 
+Reze 
+Makima
+
+Deck 13: Flight
+Hinata -- Aqui está correto, mas ele poderia ter colocado esse como Hinato. Devs...
+Kageyama 
+Nishinoya
+Takanobu Aone
+Tetsuro Kuroo
+Kotaro Bokuto
+Miya Twins
+Wakatoshi Ushijima
+Toru Oikawa
+
+Deck 14: Ego
+Isagi 
+Bachira 
+Chigiri 
+Kunigami 
+Nagi 
+King Soccer -- Pelo jeito até Devs tem seus preferidos...
+Shidou
+Rin
+Sae
+
+Deck 15: Clover
+Asta 
+Yuno 
+Noelle 
+Luck 
+William 
+Nacht 
+Mereoleona 
+Yami 
+Julius
+
+Deck 16: Ghoul
+Kaneki 
+Touka 
+Hinami 
+Tsukiyama 
+Suzuya 
+Amon 
+Eto 
+Rize
+Arima
+
+Deck 17: Geass
+Lelouch 
+CC
+Rolo 
+Euphenmia
+Sakuya
+Jeremiah
+Suzaku
+VV
+Kallen
+
+Deck 18: Bizarre
+Koichi
+Muhammad
+Jean
+Bruno 
+Josuke 
+Kira 
+Giorno
+Jotaro
+Dio
+
+Deck 19: Fairy
+Nastu
+Grey
+Lucy
+Juvia
+Gajeel
+Wendy
+Erza
+Lazarus -- É... Está correto assim, reclama para o dev do jogo.
+Zeref
+
+Deck 20: Sins
+Meliodas
+Elizabeth
+Gunther -- É... Está correto assim, reclama para o dev do jogo.
+Diane 
+Fairy King
+Ban 
+Merlin 
+Zeldris 
+Escanor 
+
+
+Deck 21: Note
+Light
+Soichiro
+Naomi
+Near
+Ryuk
+Misa
+Rem
+Yagami
+Mello
+
+Deck 22: Slime
+Rimuru 
+Shuna 
+Souei 
+Shion 
+Benimaru Tempest
+Diablo
+Milim
+Veldora
+Guy Crimson
+
+
+Deck 23: Mage
+Frieren 
+Stark 
+Himmel 
+Eisen 
+Denken
+Flamme 
+Fern 
+Serie
+Aura
+Heisuke
+
+-- A partir daqui não garanto que estão na ordem e deck certo os nomes, recomendo testar.
+
+Deck 24: Zero
+Subaru 
+Rem Zero 
+Emilia 
+Satella 
+Beatrice
+Roswaal
+Garfiel
+Ram
+Reinhard
+
+Deck 25: Vagrant
+Uzu 
+Ryuko 
+Houka 
+Satsuki 
+Mako 
+Ragyo 
+Nui 
+Nonon
+Ira
+
+Deck 26: Rebellion
+Tatsumi
+Akame 
+Leone 
+Lubbock 
+Mine 
+Sheele 
+Bulat 
+Esdeath 
+Nanjeda
+
+Deck 27: Viking: 
+Thors, Thorkell, Askeladd, Thorfinn, Canute, Floki, Einar e Bjorn.
+
+Deck 28: Mercenary: 
+Guts, Griffith, Casca, Farnese, Schierke, Serpico, Judeau, Skull Knight e Irvine.
+
+-- Aqui vou organizar depois os nomes dos DEKCS. 
+
+Deck 29:Fate Series: Saber, Archer, Lancer, Rider, Caster, Rin Tohsaka, Shirou, Gilgamesh e Berserker.
+
+Deck 30:Mushoku Tensei: Rudeus, Roxy, Sylphiette, Eris, Ghislaine, Zanoba, Orsted, Rujierd e Kishirika.
+
+Deck 31: Shadow
+Shadow
+Alpha 
+Beta 
+Delta 
+Eta 
+Zeta 
+Aurora 
+Beatrix 
+
+Deck 32: Overlord
+Ainz (na foto/lista)
+Albedo (na lista)
+Shalltear (na lista)
+Cocytus (na lista)
+Demiurge (na lista)
+Sebas (na lista)
+Elf Twin (Aura/Mare - na foto/lista) VEr tambem
+Pandora
+
+Deck 33:Fullmetal Alchemist: Edward, Alphonse, Winry, Roy (Mustang), Riza (Hawkeye), Greed, Ling e Scar.
+
+Deck 34:Classroom of the Elite:Ayanokoji, Suzune (Horikita), Ichinose, Ryuen, Koenji, Manabu, Arisu (Sakayanagi) e Kei (Karuizawa).
+
+Deck 35:Dr. Stone:Senku, Taiju, Suika, Kohaku, Gen, Chrome e Tsukasa.
+
+Deck 36:Sakamoto Days:Taro Sakamoto, Shin Asakura, Osaragi, Shishiba, Heisuke e Lu Saotang.
+
+Deck 37:Sword Art Online:Kirito, Asuna, Sinon, Leefa, Alice, Eugeo, Klien, Heathcliff e Yuuki.
+
+Deck 38:Kuroko no Basket: Kise, Midorima, Aomine, Murasakibara, Akashi, Kagami, Momoi, Alex e Kuroko.
+
+Deck 39:Record of Ragnarok / Shuumatsu: Zeus, Adam, Brunhilde, Jack The Ripper, Budda, Qin Shi e Hades.
+
+Deck 40:Spy x Family:Loid, Yor, Anya, Yuri Briar, Fiona, Henry Henderson, Franky Spy e Sylvia.
+
+
+
+
+
